@@ -9,15 +9,16 @@ Tailwind - https://www.tailwindcss.com
 ## YouTube channels
 
 ## Tailwind templates and components
-| Name                              | Description | Web site                                              | Free/paid |
-|-----------------------------------|-------------|-------------------------------------------------------|-----------|
-| Tailwind Toolbox                  |             | https://www.tailwindtoolbox.com/                      | Free/paid |
-| Tailwind Templates                |             | https://tailwindtemplates.co/                         | Free/paid |
-| ThemeWagon Tailwind Templates     |             | https://themewagon.com/theme-framework/tailwind-css/  | Free/paid |
+| Name                              | Description                                                     | Web site                                              | Free/paid |
+|-----------------------------------|-----------------------------------------------------------------|-------------------------------------------------------|-----------|
+| Tailwind Toolbox                  |                                                                 | https://www.tailwindtoolbox.com/                      | Free/paid |
+| Tailwind Templates                |                                                                 | https://tailwindtemplates.co/                         | Free/paid |
+| ThemeWagon Tailwind Templates     |                                                                 | https://themewagon.com/theme-framework/tailwind-css/  | Free/paid |
+| Dev.to Blog Article               | 30 Free Tailwind CSS Templates to Kick-start Your Next Project  |
+https://dev.to/mariann93502220/30-free-tailwind-css-templates-to-kick-start-your-next-project-3igo  | Free/paid |
 
 
-
-Dev.to Blog - https://dev.to/mariann93502220/30-free-tailwind-css-templates-to-kick-start-your-next-project-3igo
+ - 
 
 Tailwind Components - https://tailwindcomponents.com/ (Free and paid)
 
