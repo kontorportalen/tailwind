@@ -9,7 +9,12 @@ Tailwind - https://www.tailwindcss.com
 ## YouTube channels
 
 ## Tailwind templates and components
-Tailwind Toolbox - https://www.tailwindtoolbox.com/ (Free and paid)
+| Name                 | Description | Web site                                 | Free/paid |
+|----------------------|-------------|------------------------------------------|-----------|
+| Tailwind Toolbox     |             | https://www.tailwindtoolbox.com/         | Free/paid |
+|                      |             |                                          |           |
+|                      |             |                                          |           |
+
 
 Tailwind Templates - https://tailwindtemplates.co/ (Free and paid)
 
